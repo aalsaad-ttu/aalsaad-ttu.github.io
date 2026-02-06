@@ -1,0 +1,30 @@
+/* CMPA Assignment 02 – Styling Your Introduction */
+
+/* Page background */
+body {
+  background-color: #eef1f5;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Main heading */
+h1 {
+  color: #2c3e50;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Paragraph text */
+p {
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+/* Spacing around main content */
+h1,
+h2,
+p,
+ul {
+  margin: 20px;
+}
+
